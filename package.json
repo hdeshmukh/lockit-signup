@@ -22,11 +22,11 @@
   },
   "license": "MIT",
   "dependencies": {
-    "lockit-template-blank": "https://github.com/hdeshmukh/lockit-tempalte-blank/archive/v0.0.1.tar.gz",
+    "lockit-template-blank": "git://github.com/hdeshmukh/lockit-template-blank#master",
     "node-uuid": "~1.4.1",
     "ms": "~0.6.2",
     "moment": "~2.5.0",
-    "lockit-sendmail": "https://github.com/hdeshmukh/lockit-sendmail/archive/v0.1.2.tar.gz"
+    "lockit-sendmail": "git://github.com/hdeshmukh/lockit-sendmail#master"
   },
   "devDependencies": {
     "lockit-couchdb-adapter": "0.4.0",
